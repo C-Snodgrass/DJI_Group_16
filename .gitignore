@@ -2,3 +2,8 @@
 data/mysql/
 # Ignore the .tar, we might be able to delete theis from the dir
 cloud_api_sample_docker_v1.10.0.tar
+# File too big for github, i's say this is somehting to do with 
+# the docker image once compiled, so probs don't need it on github
+.docker_temp_1802670237
+# Same here
+.docker_temp_1802670237
